@@ -1,0 +1,6 @@
+{
+  "name": "Dompetku",
+  "description": "Aplikasi pencatatan keuangan pribadi dengan fitur grafik bulanan yang informatif",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
